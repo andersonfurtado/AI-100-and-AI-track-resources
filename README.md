@@ -7,8 +7,8 @@ This repository aims to form a study group to prepare for the Microsoft AI-100 E
 
 ## Overview of AI-100 Exam
 
-![Overviel](AI-100 Mindmaps/AI-100 Exam Overview.png)
+![Overviel](AI-100 - Mindmaps/AI-100 Exam Overview.png)
 
 ## Topics of AI-100 Exam
 
-![Overviel](AI-100 Mindmaps/AI-100 Exam Overview.png)
+![Topics](AI-100 - Mindmaps/AI-100 Exam Topics.png)
