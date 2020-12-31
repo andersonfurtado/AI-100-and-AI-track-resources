@@ -5,10 +5,10 @@ This repository aims to form a study group to prepare for the Microsoft AI-100 E
 - Anderson Soares Furtado Oliveira https://www.linkedin.com/in/andersonfurtado/
 
 
-## Overview of AI-100 Exam
+## AI-100 Exam Overview
 
 ![Overview](AI100-Mindmaps/1_Overview.png)
 
-## Topics of AI-100 Exam
+## AI-100 Exam Topics
 
 ![Topics](AI100-Mindmaps/2_Topics.png)
