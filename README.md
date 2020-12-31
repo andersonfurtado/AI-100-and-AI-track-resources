@@ -3,3 +3,8 @@ This repository aims to form a study group to prepare for the Microsoft AI-100 E
 
 # These are the LinkedIn collaborators of the repository:
 - Anderson Soares Furtado Oliveira https://www.linkedin.com/in/andersonfurtado/
+
+
+## Overview of AI-100 Exame
+
+![Archtecture](Images/Overview.png)
