@@ -16,6 +16,6 @@ This repository aims to form a study group to prepare for the Microsoft AI-100 E
 ## Video
 - https://www.youtube.com/watch?v=kWLQPMbAGPg&list=PLHytPd_EnpyegblnHPNwhRH1uCRkO9F8r&index=2
 
-# Slides
+## Slides
 - https://docs.google.com/presentation/d/1pF-dkJGMzQi1YqFZk9KUqF59QlWRdzX40CCJiJzHUo0/edit?usp=sharing
 - https://docs.google.com/presentation/d/12ToFbrPX_wbgT4Kj_KSsbWTUbXbN09ySHKfrHWRwdr0/edit?usp=sharing
